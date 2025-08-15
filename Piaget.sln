@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piaget", "Piaget\Piaget.csproj", "{A01D925E-4288-4AE7-A08E-2C28AA0DF6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01D925E-4288-4AE7-A08E-2C28AA0DF6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01D925E-4288-4AE7-A08E-2C28AA0DF6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01D925E-4288-4AE7-A08E-2C28AA0DF6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01D925E-4288-4AE7-A08E-2C28AA0DF6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15856ED1-5463-4ED0-9112-A0A990BC4D6B}
+	EndGlobalSection
+EndGlobal
