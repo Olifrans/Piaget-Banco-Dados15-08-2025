@@ -1,13 +1,13 @@
-﻿@model Piaget.Models.Aluno
+﻿@model Piaget.Models.Professor
 
 @{
     ViewData["Title"] = "Details";
 }
 
-<h1>Detalhes do aluno</h1>
+<h1>Details</h1>
 
 <div>
-    <h4>Detalhes do aluno</h4>
+    <h4>Professor</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -25,6 +25,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Alterar</a> |
-    <a asp-action="Index">Voltar</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
 </div>
